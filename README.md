@@ -32,7 +32,7 @@ This is a simple CRUD (Create, Read, Update, Delete) API built using Node.js, Ex
 4. Run the application:
 
    ```bash
-   npm start
+   npm run start
    ```
 
    The API will be available at [http://localhost:3000](http://localhost:3000).
