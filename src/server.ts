@@ -1,6 +1,5 @@
 import express, { Express, Request, Response } from "express";
 import dotenv from "dotenv";
-import { v4 as uuidv4 } from 'uuid';
 import { CustomStatusCodes } from './status-codes';
 import { body, validationResult } from 'express-validator';
 
